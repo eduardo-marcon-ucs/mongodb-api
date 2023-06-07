@@ -1,5 +1,7 @@
+
 # Descrição das Funções do Código
 
+O exemplo escolhido é um código JavaScript que utiliza a API do MongoDB para realizar operações no banco. Operações de inserção, consulta e remoção de dados.
 Aqui está uma descrição de cada função presente no código fornecido.
 
 ## connectToMongoDB()
@@ -41,4 +43,18 @@ Essa função realiza uma pesquisa com agregação no banco de dados MongoDB. El
 ## data.json
 
 Arquivo que foi usado para dar entrada nos dados do Banco. Foi usado o dataset https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023 e convertido de CSV para JSON.
+
+## Comandos utilizados	
+
+	Os comandos utilizados para inserção dos dados são:
+		*insertOne() 
+		*insertMany()
+	
+	Os comandos utilizados para consulta dos dados são:
+		*find()
+		*aggregate()
+		
+	Os comandos utilizados para remoção dos dados são:
+		* deleteOne()
+		* deleteMany()
 
