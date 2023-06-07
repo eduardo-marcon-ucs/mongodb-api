@@ -56,5 +56,7 @@ Arquivo que foi usado para dar entrada nos dados do Banco. Foi usado o dataset h
 		
 	Os comandos utilizados para remoção dos dados são:
 		* deleteOne()
-		* deleteMany()
+		* deleteMany()		
+##
+* A pasta "apresentação" contém alguns prints dos resultados das funções.
 
